@@ -1,2 +1,2 @@
 # proekt
-https://fander453.github.io/proekt/
+https://fander453.github.io/proekt
